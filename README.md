@@ -8,6 +8,6 @@ The webpage will return the video as a downloadable. Future versions might featu
 
 
 ## Implementation Steps
-- [] Start by building a CLI tool that receives an MP4 file as input, processes and returns a captioned video
-- [] Implement wrapper (with Flask) to access the tool via HTTP
-- [] Create frontend webserver (still need to think of tools for that) with drag & drop inputting
+- [ ] Start by building a CLI tool that receives an MP4 file as input, processes and returns a captioned video
+- [ ] Implement wrapper (with Flask) to access the tool via HTTP
+- [ ] Create frontend webserver (still need to think of tools for that) with drag & drop inputting
